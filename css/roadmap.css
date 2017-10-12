@@ -12,7 +12,7 @@ p, li {
 
 .entry-content {
   background-color: #D5D5D5;
-  background-image: url('images/RFID-Insider-Road-Map-Smaller.png');
+  background-image: url('/images/RFID-Insider-Road-Map-Smaller.png');
   background-size: 100%;
   position: absolute;
   z-index: -100;
@@ -71,7 +71,7 @@ h2 {
 }
 
 .roadmap-banner h1 {
-    background-image:url('images/Asphalt.png');
+    background-image:url('/images/Asphalt.png');
     background-repeat:repeat;
     background-position:0 -170px;
     color:#fff;
